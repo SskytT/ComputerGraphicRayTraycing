@@ -1,0 +1,17 @@
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\bin\Debug\net6.0-windows\RayTraycing.exe
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\bin\Debug\net6.0-windows\RayTraycing.deps.json
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\bin\Debug\net6.0-windows\RayTraycing.runtimeconfig.json
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\bin\Debug\net6.0-windows\RayTraycing.dll
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\bin\Debug\net6.0-windows\RayTraycing.pdb
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.Form1.resources
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.dll
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\refint\RayTraycing.dll
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.pdb
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\RayTraycing.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Интелектуальные системы\RayTraycing\RayTraycing\obj\Debug\net6.0-windows\ref\RayTraycing.dll
